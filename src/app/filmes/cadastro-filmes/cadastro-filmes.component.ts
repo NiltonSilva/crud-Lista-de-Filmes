@@ -1,3 +1,4 @@
+import { ValidarCamposService } from './../../shared/components/campos/validar-campos.service';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 
@@ -11,7 +12,10 @@ export class CadastroFilmesComponent implements OnInit {
 
   cadastro!: FormGroup;
 
-  constructor(private fb: FormBuilder) { }
+  constructor(
+    public validacao: ValidarCamposService,   // nesse caso minha injeção de dependência fica pública porque será acessada do HTML
+    private fb: FormBuilder
+  ) { }
 
   get f() {
     return this.cadastro.controls;
