@@ -109,6 +109,126 @@
       "urlIMDb": "https://www.imdb.com/title/tt1630029/?ref_=hm_fanfav_tt_t_1_pd_fp1",
       "genero": "Ação",
       "id": 11
+    },
+    {
+      "titulo": "(500) Dias com Ela",
+      "urlFoto": "https://www.imdb.com/title/tt1022603/mediaviewer/rm2316730881/?ref_=tt_ov_i",
+      "dtLancamento": "2009-01-02T02:00:00.000Z",
+      "descricao": "Uma comédia romântica sobre uma mulher que não acredita no amor verdadeiro e um homem que se apaixona por ela.",
+      "nota": 7.7,
+      "urlIMDb": "https://www.imdb.com/title/tt1022603/?ref_=fn_al_tt_1",
+      "genero": "Romance",
+      "id": 12
+    },
+    {
+      "titulo": "Esqueceram de Mim",
+      "urlFoto": "https://www.imdb.com/title/tt0099785/mediaviewer/rm4270420992/?ref_=tt_ov_i",
+      "dtLancamento": "1990-12-25T02:00:00.000Z",
+      "descricao": "Um menino de oito anos deve proteger sua casa de um par de ladrões quando acidentalmente for deixado sozinho em casa por sua família durante as férias de Natal.\n\n",
+      "nota": 7.7,
+      "urlIMDb": "https://www.imdb.com/title/tt0099785/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_26",
+      "genero": "Comédia",
+      "id": 13
+    },
+    {
+      "titulo": "Nada de Novo no Front",
+      "urlFoto": "https://www.imdb.com/title/tt1016150/mediaviewer/rm3911845377/?ref_=tt_ov_i",
+      "dtLancamento": "2022-10-07T03:00:00.000Z",
+      "descricao": "As terríveis experiências e angústias de um jovem soldado alemão na frente ocidental durante a Primeira Guerra Mundial.\n\n",
+      "nota": 7.8,
+      "urlIMDb": "https://www.imdb.com/title/tt1016150/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_67",
+      "genero": "Ação",
+      "id": 14
+    },
+    {
+      "titulo": "Nada de Novo no Front",
+      "urlFoto": "https://www.imdb.com/title/tt1016150/mediaviewer/rm3911845377/?ref_=tt_ov_i",
+      "dtLancamento": "2022-10-07T03:00:00.000Z",
+      "descricao": "As terríveis experiências e angústias de um jovem soldado alemão na frente ocidental durante a Primeira Guerra Mundial.\n\n",
+      "nota": 7.8,
+      "urlIMDb": "https://www.imdb.com/title/tt1016150/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_67",
+      "genero": "Ação",
+      "id": 15
+    },
+    {
+      "titulo": "Nada de Novo no Front",
+      "urlFoto": "https://www.imdb.com/title/tt1016150/mediaviewer/rm3911845377/?ref_=tt_ov_i",
+      "dtLancamento": "2022-10-07T03:00:00.000Z",
+      "descricao": "As terríveis experiências e angústias de um jovem soldado alemão na frente ocidental durante a Primeira Guerra Mundial.\n\n",
+      "nota": 7.8,
+      "urlIMDb": "https://www.imdb.com/title/tt1016150/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_67",
+      "genero": "Ação",
+      "id": 16
+    },
+    {
+      "titulo": "Batman",
+      "urlFoto": "https://www.imdb.com/title/tt1877830/mediaviewer/rm2474894849/?ref_=tt_ov_i",
+      "dtLancamento": "2022-01-14T03:00:00.000Z",
+      "descricao": "Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como a personificação da vingança para a população.",
+      "nota": 7.8,
+      "urlIMDb": "https://www.imdb.com/title/tt1877830/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_46",
+      "genero": "Ação",
+      "id": 17
+    },
+    {
+      "titulo": "Top Gun: Maverick",
+      "urlFoto": "https://www.imdb.com/title/tt1745960/mediaviewer/rm3294367489/?ref_=tt_ov_i",
+      "dtLancamento": "2022-08-12T03:00:00.000Z",
+      "descricao": "Após mais de trinta anos de serviço como um dos melhores aviadores da Marinha, Pete Mitchell está onde pertence, ultrapassando os limites como um piloto de teste intrépido e evitando a promoção de posto que o manteria em terra.\n",
+      "nota": 8.4,
+      "urlIMDb": "https://www.imdb.com/title/tt1745960/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_44",
+      "genero": "Ação",
+      "id": 18
+    },
+    {
+      "titulo": "Top Gun: Maverick",
+      "urlFoto": "https://www.imdb.com/title/tt1745960/mediaviewer/rm3294367489/?ref_=tt_ov_i",
+      "dtLancamento": "2022-08-12T03:00:00.000Z",
+      "descricao": "Após mais de trinta anos de serviço como um dos melhores aviadores da Marinha, Pete Mitchell está onde pertence, ultrapassando os limites como um piloto de teste intrépido e evitando a promoção de posto que o manteria em terra.\n",
+      "nota": 8.4,
+      "urlIMDb": "https://www.imdb.com/title/tt1745960/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_44",
+      "genero": "Ação",
+      "id": 19
+    },
+    {
+      "titulo": "Pinóquio",
+      "urlFoto": "https://www.imdb.com/title/tt4593060/mediaviewer/rm2622554881/?ref_=tt_ov_i",
+      "dtLancamento": "2022-03-11T03:00:00.000Z",
+      "descricao": "Um boneco é trazido à vida por uma fada, que o atribui a levar uma vida virtuosa para se tornar um menino de verdade.\n",
+      "nota": 5.1,
+      "urlIMDb": "https://www.imdb.com/title/tt4593060/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_43",
+      "genero": "Animação",
+      "id": 20
+    },
+    {
+      "titulo": "Pinóquio",
+      "urlFoto": "https://www.imdb.com/title/tt4593060/mediaviewer/rm2622554881/?ref_=tt_ov_i",
+      "dtLancamento": "2022-03-11T03:00:00.000Z",
+      "descricao": "Um boneco é trazido à vida por uma fada, que o atribui a levar uma vida virtuosa para se tornar um menino de verdade.\n",
+      "nota": 5.1,
+      "urlIMDb": "https://www.imdb.com/title/tt4593060/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_43",
+      "genero": "Animação",
+      "id": 21
+    },
+    {
+      "titulo": "Pinóquio",
+      "urlFoto": "https://www.imdb.com/title/tt4593060/mediaviewer/rm2622554881/?ref_=tt_ov_i",
+      "dtLancamento": "2022-03-11T03:00:00.000Z",
+      "descricao": "Um boneco é trazido à vida por uma fada, que o atribui a levar uma vida virtuosa para se tornar um menino de verdade.\n",
+      "nota": 5.1,
+      "urlIMDb": "https://www.imdb.com/title/tt4593060/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_43",
+      "genero": "Animação",
+      "id": 22
+    },
+    {
+      "titulo": "Pinóquio",
+      "urlFoto": "https://www.imdb.com/title/tt4593060/mediaviewer/rm2622554881/?ref_=tt_ov_i",
+      "dtLancamento": "2022-03-11T03:00:00.000Z",
+      "descricao": "Um boneco é trazido à vida por uma fada, que o atribui a levar uma vida virtuosa para se tornar um menino de verdade.\n",
+      "nota": 5.1,
+      "urlIMDb": "https://www.imdb.com/title/tt4593060/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=T0MZE6E9YYM27YVBG90F&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_43",
+      "genero": "Animação",
+      "id": 23
     }
   ]
 }

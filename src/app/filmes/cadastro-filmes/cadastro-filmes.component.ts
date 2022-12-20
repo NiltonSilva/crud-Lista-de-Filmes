@@ -1,8 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { ValidarCamposService } from './../../shared/components/campos/validar-campos.service';
 import { Filme } from 'src/app/shared/models/filme';
+import { ValidarCamposService } from './../../shared/components/campos/validar-campos.service';
 import { FilmesService } from './../../core/filmes.service';
+import { AlertaComponent } from './../../shared/components/alerta/alerta.component';
+import { MatDialog } from '@angular/material';
 
 @Component({
   selector: 'dio-cadastro-filmes',
@@ -17,6 +19,7 @@ export class CadastroFilmesComponent implements OnInit {
 
   constructor(
     public validacao: ValidarCamposService,   // nesse caso minha injeção de dependência fica pública porque será acessada do HTML
+    public dialog: MatDialog,
     private fb: FormBuilder,
     private filmeService: FilmesService
   ) { }
@@ -61,7 +64,7 @@ export class CadastroFilmesComponent implements OnInit {
 
   private salvar(filme: Filme): void {
     this.filmeService.salvar(filme).subscribe(() => {
-      alert('Suuuuceeesso!');
+      const dialogRef = this.dialog.open(AlertaComponent);
     },
     () => {
       alert('Caralho mermao, deu ruim!');
