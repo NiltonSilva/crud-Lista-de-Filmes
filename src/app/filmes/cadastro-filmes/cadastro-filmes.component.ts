@@ -11,6 +11,7 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 export class CadastroFilmesComponent implements OnInit {
 
   cadastro!: FormGroup;
+  generos: Array<string>;
 
   constructor(
     public validacao: ValidarCamposService,   // nesse caso minha injeção de dependência fica pública porque será acessada do HTML
@@ -32,6 +33,8 @@ export class CadastroFilmesComponent implements OnInit {
       urlIMDb: ['', [Validators.minLength(10)]],
       genero: ['', [Validators.required]]
     });
+
+    this.generos = ['Ação', 'Animação', 'Aventura', 'Comédia', 'Drama', 'Ficção', 'Romance',  'Terror'];
 
   }
 
