@@ -1,10 +1,11 @@
+import { MatDialog } from '@angular/material';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { Filme } from 'src/app/shared/models/filme';
+import { Alerta } from 'src/app/shared/models/alerta';
 import { ValidarCamposService } from './../../shared/components/campos/validar-campos.service';
 import { FilmesService } from './../../core/filmes.service';
 import { AlertaComponent } from './../../shared/components/alerta/alerta.component';
-import { MatDialog } from '@angular/material';
 
 @Component({
   selector: 'dio-cadastro-filmes',
@@ -64,7 +65,15 @@ export class CadastroFilmesComponent implements OnInit {
 
   private salvar(filme: Filme): void {
     this.filmeService.salvar(filme).subscribe(() => {
-      const dialogRef = this.dialog.open(AlertaComponent);
+      const config = {
+        data: {
+          btnSucesso: 'Ir par a listagem',
+          btnCancelar: 'Cadastrar um novo filme',
+          corBtnCancelar: 'primary',
+          possuirBtnFechar: true
+        } as Alerta
+      }
+      const dialogRef = this.dialog.open(AlertaComponent, config);
     },
     () => {
       alert('Caralho mermao, deu ruim!');
