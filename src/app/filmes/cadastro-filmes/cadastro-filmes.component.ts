@@ -1,3 +1,4 @@
+import { Router } from '@angular/router';
 import { MatDialog } from '@angular/material';
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
@@ -22,7 +23,8 @@ export class CadastroFilmesComponent implements OnInit {
     public validacao: ValidarCamposService,   // nesse caso minha injeção de dependência fica pública porque será acessada do HTML
     public dialog: MatDialog,
     private fb: FormBuilder,
-    private filmeService: FilmesService
+    private filmeService: FilmesService,
+    private router: Router
   ) { }
 
   get f() {
@@ -74,9 +76,24 @@ export class CadastroFilmesComponent implements OnInit {
         } as Alerta
       }
       const dialogRef = this.dialog.open(AlertaComponent, config);
+      dialogRef.afterClosed().subscribe((opcao: boolean) => {
+        if(opcao) {
+          this.router.navigateByUrl('filmes');
+        } else {
+          this.reiniciarForm();
+        }
+      });
     },
     () => {
-      alert('Caralho mermao, deu ruim!');
+      const config = {
+        data: {
+          titulo: 'Erro ao fechar o registro!',
+          descricao: 'Não conseguimos salvar seu registro. Por favor, tentar novamente mais tarde!',
+          corBtnSucesso: 'warn',
+          btnSucesso:'Fechar'
+        } as Alerta
+      }
+      this.dialog.open(AlertaComponent, config);
     });
   }
 

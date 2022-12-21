@@ -369,6 +369,56 @@
       "urlIMDb": "https://www.imdb.com/title/tt0295297/?ref_=hm_inth_tt_t_4",
       "genero": "Aventura",
       "id": 37
+    },
+    {
+      "titulo": "O Expresso Polar",
+      "urlFoto": "https://www.imdb.com/title/tt0338348/mediaviewer/rm4147153920/?ref_=tt_ov_i",
+      "dtLancamento": "2022-12-09T03:00:00.000Z",
+      "descricao": "Na véspera de Natal, um menino embarca em uma aventura mágica ao Pólo Norte no Expresso Polar, aprendendo sobre amizade, bravura e o espírito natalino.",
+      "nota": 6.6,
+      "urlIMDb": "https://www.imdb.com/title/tt0338348/?ref_=hm_tpks_tt_t_4_pd_tp1_pbr_ic",
+      "genero": "Comédia",
+      "id": 38
+    },
+    {
+      "titulo": "O Expresso Polar",
+      "urlFoto": "https://www.imdb.com/title/tt0338348/mediaviewer/rm4147153920/?ref_=tt_ov_i",
+      "dtLancamento": "2022-12-09T03:00:00.000Z",
+      "descricao": "Na véspera de Natal, um menino embarca em uma aventura mágica ao Pólo Norte no Expresso Polar, aprendendo sobre amizade, bravura e o espírito natalino.",
+      "nota": 6.6,
+      "urlIMDb": "https://www.imdb.com/title/tt0338348/?ref_=hm_tpks_tt_t_4_pd_tp1_pbr_ic",
+      "genero": "Comédia",
+      "id": 39
+    },
+    {
+      "titulo": "O Expresso Polar",
+      "urlFoto": "https://www.imdb.com/title/tt0338348/mediaviewer/rm4147153920/?ref_=tt_ov_i",
+      "dtLancamento": "2022-12-09T03:00:00.000Z",
+      "descricao": "Na véspera de Natal, um menino embarca em uma aventura mágica ao Pólo Norte no Expresso Polar, aprendendo sobre amizade, bravura e o espírito natalino.",
+      "nota": 6.6,
+      "urlIMDb": "https://www.imdb.com/title/tt0338348/?ref_=hm_tpks_tt_t_4_pd_tp1_pbr_ic",
+      "genero": "Comédia",
+      "id": 40
+    },
+    {
+      "titulo": "O Expresso Polar",
+      "urlFoto": "https://www.imdb.com/title/tt0338348/mediaviewer/rm4147153920/?ref_=tt_ov_i",
+      "dtLancamento": "2022-12-09T03:00:00.000Z",
+      "descricao": "Na véspera de Natal, um menino embarca em uma aventura mágica ao Pólo Norte no Expresso Polar, aprendendo sobre amizade, bravura e o espírito natalino.",
+      "nota": 6.6,
+      "urlIMDb": "https://www.imdb.com/title/tt0338348/?ref_=hm_tpks_tt_t_4_pd_tp1_pbr_ic",
+      "genero": "Animação",
+      "id": 41
+    },
+    {
+      "titulo": "Um Duende em Nova York",
+      "urlFoto": "https://www.imdb.com/title/tt0319343/mediaviewer/rm580354049/?ref_=tt_ov_i",
+      "dtLancamento": "2003-12-12T02:00:00.000Z",
+      "descricao": "Após descobrir que ele é um humano, um homem criado como elfo no Pólo Norte decide viajar para Nova York para localizar seu verdadeiro pai.",
+      "nota": 7,
+      "urlIMDb": "https://www.imdb.com/title/tt0319343/?ref_=hm_tpks_tt_t_1_pd_tp1_pbr_ic",
+      "genero": "Comédia",
+      "id": 42
     }
   ]
 }
