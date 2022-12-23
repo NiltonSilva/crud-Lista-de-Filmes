@@ -2,14 +2,14 @@
   <mat-list-item><b>Título:</b> {{ filme.titulo }}</mat-list-item>
   <mat-list-item><b>Data de Lançamento:</b> {{ filme.dtLancamento | date: 'dd/MM/yyyy' }}</mat-list-item>
   <mat-list-item><b>Gênero:</b> {{ filme.genero }}</mat-list-item>
-  <mat-list-item><b>Descrição:</b> {{ filme.descricao }}</mat-list-item>
+  <mat-list-item class="quebrar-linha"><b>Descrição:</b> {{ filme.descricao }}</mat-list-item>
   <mat-list-item><b>Nota:</b> <a [href]="filme.urlIMDb" target="_blank">{{ filme.nota }}</a></mat-list-item>
   <img mat-card-image [src]="filme.urlFoto || semFoto">
 </mat-list>
 
 <mat-card>
   <mat-card-actions>
-    <button color="accent" mat-raised-button>Editar</button>
+    <button color="accent" mat-raised-button (editar)="editar()">Editar</button>
     <button color="warn" mat-raised-button (click)="excluir()">Excluir</button>
   </mat-card-actions>
 </mat-card>

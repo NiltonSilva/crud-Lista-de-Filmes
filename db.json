@@ -189,16 +189,6 @@
       "urlIMDb": "https://www.imdb.com/title/tt9319668/?ref_=hm_fanfav_tt_t_8_pd_fp1",
       "genero": "Animação",
       "id": 33
-    },
-    {
-      "titulo": "O Grinch",
-      "urlFoto": "https://www.imdb.com/title/tt0170016/mediaviewer/rm2700967937/?ref_=tt_ov_i",
-      "dtLancamento": "2000-06-23T03:00:00.000Z",
-      "descricao": "Nos arredores de Whoville vive um Grinch em busca de vingança, que planeja arruinar o Natal para todos os cidadãos.",
-      "nota": 6.2,
-      "urlIMDb": "https://www.imdb.com/title/tt0170016/?ref_=hm_stp_pvs_piv_tt_t_2",
-      "genero": "Comédia",
-      "id": 36
     }
   ]
 }
